@@ -1,25 +1,23 @@
 ## 😄 Daily Quotes 😄
 
-_**Unquestionably, it is possible to do without happiness it is done involuntarily by nineteen-twentieths of mankind.**_
+_**Especially with a comedy, you've got the clear cut goal of trying to make a scene funny. It's not like drama where you're trying to achieve some kind of emotion or trying to further the story along. You're trying to figure out what's the funniest way to do something.**_
 
-John Stuart Mill
+Luke Wilson
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  18 hrs 17 mins █████████████████▋░░░  83.9%
-JSON        1 hr 38 mins   █▌░░░░░░░░░░░░░░░░░░░   7.5%
-JavaScript  1 hr 26 mins   █▍░░░░░░░░░░░░░░░░░░░   6.7%
-Text        9 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+<pre>TypeScript  14 hrs 58 mins ███████████████▉░░░░░  75.8%
+JSON        2 hrs 47 mins  ██▉░░░░░░░░░░░░░░░░░░  14.2%
+JavaScript  1 hr 40 mins   █▊░░░░░░░░░░░░░░░░░░░   8.4%
 Bash        6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+Text        4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
 Public Key  3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 SSH Key     2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Image (svg) 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-SSH Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-Diff        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+SSH Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-4/4/2025
+4/5/2025
