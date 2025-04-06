@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Especially with a comedy, you've got the clear cut goal of trying to make a scene funny. It's not like drama where you're trying to achieve some kind of emotion or trying to further the story along. You're trying to figure out what's the funniest way to do something.**_
+_**But having said that, there's also a sea change in attitude towards media.**_
 
-Luke Wilson
+Robert McChesney
 
 
 
@@ -20,4 +20,4 @@ Markdown    0 secs         ░░░░░░░░░░░░░░░░░�
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 SSH Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-4/5/2025
+4/6/2025
