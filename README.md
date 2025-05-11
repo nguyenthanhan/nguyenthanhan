@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**But there is a difference here: When Jewish children are murdered, Arabs celebrate the deed. The death of an Arab child is no cause for celebration in Israel.**_
+_**Everywhere that freedom stirs, let tyrants fear.**_
 
-Theodore Bikel
+George W. Bush
 
 
 
@@ -16,4 +16,4 @@ JavaScript  0 secs         ░░░░░░░░░░░░░░░░░�
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 CocoaPods   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-5/10/2025
+5/11/2025
