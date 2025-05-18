@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I put a lot of faith in dreams. I know that big movie roles and opportunities are going to happen.**_
+_**We must build dikes of courage to hold back the flood of fear.**_
 
-Krista Allen
+Martin Luther King, Jr.
 
 
 
@@ -29,4 +29,4 @@ Ruby        0 secs         ░░░░░░░░░░░░░░░░░�
 Batchfile   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-5/17/2025
+5/18/2025
