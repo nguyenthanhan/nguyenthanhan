@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I can't bear art that you can walk round and admire. A book should be either a bandit or a rebel or a man in the crowd.**_
+_**An important lever for sustained action in tackling poverty and reducing hunger is money.**_
 
-David Herbert Lawrence
+Gro Harlem Brundtland
 
 
 
@@ -21,4 +21,4 @@ Git         2 mins         ░░░░░░░░░░░░░░░░░�
 Bash        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-5/24/2025
+5/25/2025
