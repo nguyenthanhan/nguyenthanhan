@@ -1,19 +1,17 @@
 ## 😄 Daily Quotes 😄
 
-_**An artist needn't be a clergyman or a churchwarden, but he certainly must have a warm heart for his fellow men.**_
+_**Today there are people trying to take away rights that our mothers, grandmothers and great-grandmothers fought for: our right to vote, our right to choose, affordable quality education, equal pay, access to health care. We the people can't let that happen.**_
 
-Vincent Van Gogh
+Kerry Washington
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  12 hrs 15 mins █████████████████▌░░░  83.4%
-JSON        2 hrs 12 mins  ███▏░░░░░░░░░░░░░░░░░  15.1%
-Bash        8 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
+<pre>TypeScript  13 hrs 35 mins █████████████████▉░░░  85.4%
+JSON        2 hrs 7 mins   ██▊░░░░░░░░░░░░░░░░░░  13.4%
+Bash        7 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 Markdown    1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
-YAML        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
+Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
 
-5/30/2025
+5/31/2025
