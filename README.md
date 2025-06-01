@@ -1,17 +1,18 @@
 ## 😄 Daily Quotes 😄
 
-_**Today there are people trying to take away rights that our mothers, grandmothers and great-grandmothers fought for: our right to vote, our right to choose, affordable quality education, equal pay, access to health care. We the people can't let that happen.**_
+_**Amazement awaits us at every corner.**_
 
-Kerry Washington
+James Broughton
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  13 hrs 35 mins █████████████████▉░░░  85.4%
-JSON        2 hrs 7 mins   ██▊░░░░░░░░░░░░░░░░░░  13.4%
+<pre>TypeScript  14 hrs 49 mins ██████████████████▏░░  86.3%
+JSON        2 hrs 9 mins   ██▋░░░░░░░░░░░░░░░░░░  12.5%
 Bash        7 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 Markdown    1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
+Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
+YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-5/31/2025
+6/1/2025
