@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Amazement awaits us at every corner.**_
+_**There's no hope of me becoming completely relaxed on stage. If I did, I'd sit down and doze off.**_
 
-James Broughton
+Robert Smith
 
 
 
@@ -15,4 +15,4 @@ Markdown    1 min          ░░░░░░░░░░░░░░░░░�
 Other       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
 YAML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/1/2025
+6/2/2025
