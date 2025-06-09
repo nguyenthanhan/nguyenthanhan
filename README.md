@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**The only people that ever stand up and tell the truth are who? Intelligence officers. Because our culture is, never break faith with the truth. We'll tell you, you don't have to drag it out of us.**_
+_**Death is no more than passing from one room into another. But there's a difference for me, you know. Because in that other room I shall be able to see.**_
 
-George Tenet
+Helen Keller
 
 
 
@@ -20,4 +20,4 @@ YAML        0 secs         ░░░░░░░░░░░░░░░░░�
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Public Key  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/8/2025
+6/9/2025
