@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**... business training in early life should not be regarded solely as insurance against destitution in the case of an emergency. For from business experience women can gain, too, knowledge of the world and of human beings, which should be of immeasurable value to their marriage careers. Self-discipline, co-operation, adaptability, efficiency, economic management,?if she learns these in her business life she is liable for many less heartbreaks and disappointments in her married life.**_
+_**We learn the inner secret of happiness when we learn to direct our inner drives, our interest and our attention to something besides ourselves.**_
 
-Odlum, Hortense
+Ethel Percy Andrus
 
 
 
@@ -19,4 +19,4 @@ YAML        3 mins         ▏░░░░░░░░░░░░░░░░�
 Diff        3 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/14/2025
+6/15/2025
