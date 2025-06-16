@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**We learn the inner secret of happiness when we learn to direct our inner drives, our interest and our attention to something besides ourselves.**_
+_**A man in love is incomplete until he has married. Then he's finished.**_
 
-Ethel Percy Andrus
+Zsa Zsa Gabor
 
 
 
@@ -19,4 +19,4 @@ YAML        3 mins         ▏░░░░░░░░░░░░░░░░�
 Diff        3 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/15/2025
+6/16/2025
