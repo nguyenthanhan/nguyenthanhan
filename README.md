@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Advertising is the art of convincing people to spend money they don't have for something they don't need.**_
+_**Most of the press is in league with government, or with the status quo.**_
 
-Will Rogers
+Harold Pinter
 
 
 
@@ -21,4 +21,4 @@ Java Properties 0 secs         ░░░░░░░░░░░░░░░░�
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Public Key  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/21/2025
+6/22/2025
