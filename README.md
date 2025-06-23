@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**Most of the press is in league with government, or with the status quo.**_
+_**Neatness begets order but from order to taste there is the same difference as from taste to genius, or from love to friendship.**_
 
-Harold Pinter
+Johann Kaspar Lavater
 
 
 
@@ -21,4 +21,4 @@ Java Properties 0 secs         ░░░░░░░░░░░░░░░░�
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Public Key  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/22/2025
+6/23/2025
