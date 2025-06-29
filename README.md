@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**The things most people want to know about are usually none of their business.**_
+_**I believe that my own Christian faith does indeed make universal claims.**_
 
-George Bernard Shaw
+Timothy Radcliffe
 
 
 
@@ -18,4 +18,4 @@ JavaScript  5 mins         ▏░░░░░░░░░░░░░░░░�
 Markdown    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 XML         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-6/28/2025
+6/29/2025
