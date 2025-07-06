@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**A cloudy day or a little sunshine have as great an influence on many constitutions as the most recent blessings or misfortunes.**_
+_**My mom was a great cook and great baker all her life.**_
 
-Joseph Addison
+Mandy Patinkin
 
 
 
@@ -26,4 +26,4 @@ Ruby        0 secs         ░░░░░░░░░░░░░░░░░�
 Public Key  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-7/5/2025
+7/6/2025
