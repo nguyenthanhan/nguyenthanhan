@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**We can never, ever say it enough: every woman - especially every young woman-has to take charge of her health... and do what's right for her!**_
+_**Many soldiers returning from Iraq and Afghanistan suffer from serious, long-term, physical and mental health problems, due to their service. It is unconscionable to cut the already limited health care benefits available to these brave men and women.**_
 
-Debbie Wasserman Schultz
+Mark Dayton
 
 
 
@@ -25,4 +25,4 @@ JSON with Comments 0 secs         ░░░░░░░░░░░░░░░�
 Ruby        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-7/13/2025
+7/14/2025
