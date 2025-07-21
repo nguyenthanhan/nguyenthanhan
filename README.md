@@ -1,8 +1,8 @@
 ## 😄 Daily Quotes 😄
 
-_**I am learning to forgive my inner geek, and even value him as a free man.**_
+_**Sometimes we have to actually say, I think you're really funny, but none of your jokes are going to make it on the air. So just answer my questions. Seriously.**_
 
-Kenny Loggins
+Rob Corddry
 
 
 
@@ -33,4 +33,4 @@ Text        0 secs         ░░░░░░░░░░░░░░░░░�
 CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 INI         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-7/20/2025
+7/21/2025
