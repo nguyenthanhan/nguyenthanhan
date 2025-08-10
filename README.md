@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Heimer
 
-💻 **Developer**  
+💻 I write code, drink matcha, and sometimes the code even works.
 
----
 ## 😄 Daily Quotes 😄
 
-_**I really hate the duties of being a celebrity, like getting dressed up for the red carpet.**_
+_**Anyone who acquires more than the usual amount of knowledge concerning a subject is bound to leave it as his contribution to the knowledge of the world.**_
 
-America Ferrera
+Liberty Hyde Bailey
 
 
 
