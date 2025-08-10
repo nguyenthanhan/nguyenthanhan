@@ -90,7 +90,7 @@ const generate = async () => {
         ? `## 😄 Daily Quotes 😄\n\n_**${quote}**_\n\n${author}\n\n`
         : "";
 
-    const intro = `# 👋 Hi, I'm Heimer\n\n💻 I write code, drink matcha, and sometimes the code even works.\n\n---\n`;
+    const intro = `# 👋 Hi, I'm Heimer\n\n💻 I write code, drink matcha, and sometimes the code even works.\n\n`;
 
     const content =
       lines === "" && _quote === ""
