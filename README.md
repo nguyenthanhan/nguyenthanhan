@@ -1,8 +1,13 @@
+# 👋 Hi, I'm Heimer
+
+💻 **Developer**  
+
+---
 ## 😄 Daily Quotes 😄
 
-_**All are but parts of one stupendous whole, Whose body Nature is, and God the soul.**_
+_**I really hate the duties of being a celebrity, like getting dressed up for the red carpet.**_
 
-Alexander Pope
+America Ferrera
 
 
 
