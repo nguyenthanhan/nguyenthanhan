@@ -90,8 +90,12 @@ const generate = async () => {
         ? `## 😄 Daily Quotes 😄\n\n_**${quote}**_\n\n${author}\n\n`
         : "";
 
+    const intro = `# 👋 Hi, I'm Heimer\n\n💻 **Developer**  \n\n---\n`;
+
     const content =
-      lines === "" && _quote === "" ? `### Hi there 👋` : _quote + lines + `\n\n${new Date().toLocaleDateString()}`;
+      lines === "" && _quote === ""
+        ? intro + `### Hi there 👋`
+        : intro + _quote + lines + `\n\n${new Date().toLocaleDateString()}`;
 
     console.log("content", content);
 
