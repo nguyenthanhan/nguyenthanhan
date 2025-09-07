@@ -4,9 +4,9 @@
 
 ## 😄 Daily Quotes 😄
 
-_**From now until the end of time no one else will ever see life with my eyes, and I mean to make the best of my chance.**_
+_**We are born weak, we need strength helpless, we need aid foolish, we need reason. All that we lack at birth, all that we need when we come to man's estate, is the gift of education.**_
 
-Christopher Morley
+Jean-Jacques Rousseau
 
 
 
@@ -29,4 +29,4 @@ Swift       0 secs         ░░░░░░░░░░░░░░░░░�
 Batchfile   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Java Properties 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/6/2025
+9/7/2025
