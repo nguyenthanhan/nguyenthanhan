@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Heimer
 
-💻 I write code, drink coconut, and sometimes the code even works.
+💻 I write code, drink matcha, and sometimes the code even works.
 
 ## 😄 Daily Quotes 😄
 
-_**I have only one yardstick by which I test every major problem - and that yardstick is: Is it good for America?**_
+_**I'm lucky that my real-life Mom has both a great sense of humor about herself and an amazing ability to slip into complete denial if the subject matter gets a little too close to home.**_
 
-Dwight D. Eisenhower
+Cathy Guisewite
 
 
 
@@ -23,4 +23,4 @@ Git         2 mins         ░░░░░░░░░░░░░░░░░�
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/13/2025
+9/14/2025
