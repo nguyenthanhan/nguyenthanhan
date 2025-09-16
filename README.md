@@ -4,9 +4,9 @@
 
 ## 😄 Daily Quotes 😄
 
-_**A few years ago, kids from poor areas in France were asked to draw items of food. For a chicken, they drew a drumstick. For a fish, they drew a fish stick. Those are extremes, but there is a lot that needs to be done to help children discover good food.**_
+_**We have no right to assume that any physical laws exist, or if they have existed up until now, that they will continue to exist in a similar manner in the future.**_
 
-Joel Robuchon
+Max Planck
 
 
 
@@ -23,4 +23,4 @@ Git         2 mins         ░░░░░░░░░░░░░░░░░�
 JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 CSS         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/15/2025
+9/16/2025
