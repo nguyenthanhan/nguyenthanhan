@@ -4,9 +4,9 @@
 
 ## 😄 Daily Quotes 😄
 
-_**I have a message from the Tea Party, a message that is loud and clear and does not mince words. We've come to take our government back.**_
+_**When I told the people of Northern Ireland that I was an atheist, a woman in the audience stood up and said, 'Yes, but is it the God of the Catholics or the God of the Protestants in whom you don't believe?**_
 
-Rand Paul
+Quentin Crisp
 
 
 
@@ -24,4 +24,4 @@ Git Config  0 secs         ░░░░░░░░░░░░░░░░░�
 Text        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/21/2025
+9/22/2025
