@@ -4,9 +4,9 @@
 
 ## 😄 Daily Quotes 😄
 
-_**When I told the people of Northern Ireland that I was an atheist, a woman in the audience stood up and said, 'Yes, but is it the God of the Catholics or the God of the Protestants in whom you don't believe?**_
+_**Fear stifles our thinking and actions. It creates indecisiveness that results in stagnation. I have known talented people who procrastinate indefinitely rather than risk failure. Lost opportunities cause erosion of confidence, and the downward spiral begins.**_
 
-Quentin Crisp
+Charles Stanley
 
 
 
@@ -24,4 +24,4 @@ Git Config  0 secs         ░░░░░░░░░░░░░░░░░�
 Text        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/22/2025
+9/23/2025
