@@ -4,9 +4,9 @@
 
 ## 😄 Daily Quotes 😄
 
-_**You know, we'd just had a birthday, he was... you know, he still had a future out of him, and all I can is he was just one of the most beautiful people in the world... a very gifted man, and it's a loss to the world, not just for us.**_
+_**The man who never dreams, goes slowly mad.**_
 
-Robin Gibb
+Thomas Dolby
 
 
 
@@ -26,4 +26,4 @@ Git         0 secs         ░░░░░░░░░░░░░░░░░�
 Java Properties 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Docker      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/28/2025
+9/29/2025
