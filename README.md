@@ -4,9 +4,9 @@
 
 ## 😄 Daily Quotes 😄
 
-_**The man who never dreams, goes slowly mad.**_
+_**I have two young children with autism. What could they have ever done to deserve that? What kind of a God allows the innocent to suffer? It's a mystery. Yet still, I believe in God.**_
 
-Thomas Dolby
+Fred Melamed
 
 
 
@@ -26,4 +26,4 @@ Git         0 secs         ░░░░░░░░░░░░░░░░░�
 Java Properties 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Docker      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-9/29/2025
+9/30/2025
