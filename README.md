@@ -4,19 +4,19 @@
 
 ## 😄 Daily Quotes 😄
 
-_**Whether it was his ability to turn around the Massachusetts economy or turn around businesses in the private sector, Mitt Romney has demonstrated the leadership that we need in the White House to get the country on the right track.**_
+_**My mother never gave up one me. I messed up in school so much they were sending me home, but my mother sent me right back.**_
 
-Lisa Murkowski
+Denzel Washington
 
 
 
 ## 📊 Weekly development breakdown 📊
 
-<pre>TypeScript  16 hrs 48 mins ███████████████▏░░░░░  72.3%
-JSON        2 hrs 6 mins   █▉░░░░░░░░░░░░░░░░░░░   9.1%
-JavaScript  1 hr 36 mins   █▍░░░░░░░░░░░░░░░░░░░   6.9%
-Bash        1 hr 22 mins   █▏░░░░░░░░░░░░░░░░░░░   5.9%
-Markdown    1 hr 6 mins    ▉░░░░░░░░░░░░░░░░░░░░   4.8%
+<pre>TypeScript  16 hrs 50 mins ██████████████▉░░░░░░  71.0%
+JSON        2 hrs 7 mins   █▉░░░░░░░░░░░░░░░░░░░   8.9%
+Bash        1 hr 47 mins   █▌░░░░░░░░░░░░░░░░░░░   7.6%
+JavaScript  1 hr 36 mins   █▍░░░░░░░░░░░░░░░░░░░   6.8%
+Markdown    1 hr 6 mins    ▉░░░░░░░░░░░░░░░░░░░░   4.7%
 YAML        3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 Text        3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 Other       2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
@@ -26,4 +26,4 @@ Git Config  0 secs         ░░░░░░░░░░░░░░░░░�
 TOML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/4/2025
+10/5/2025
