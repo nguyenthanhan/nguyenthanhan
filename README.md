@@ -4,9 +4,9 @@
 
 ## 😄 Daily Quotes 😄
 
-_**My mother never gave up one me. I messed up in school so much they were sending me home, but my mother sent me right back.**_
+_**A woman my age is not supposed to be attractive or sexually appealing. I just get kinda tired of that.**_
 
-Denzel Washington
+Kathleen Turner
 
 
 
@@ -26,4 +26,4 @@ Git Config  0 secs         ░░░░░░░░░░░░░░░░░�
 TOML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 TSConfig    0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/5/2025
+10/6/2025
