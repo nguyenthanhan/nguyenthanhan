@@ -4,9 +4,9 @@
 
 ## 😄 Daily Quotes 😄
 
-_**Faith means living with uncertainty - feeling your way through life, letting your heart guide you like a lantern in the dark.**_
+_**At my age it is unseemly to be pessimistic.**_
 
-Dan Millman
+Naguib Mahfouz
 
 
 
@@ -26,4 +26,4 @@ Public Key  0 secs         ░░░░░░░░░░░░░░░░░�
 TOML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Git Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/12/2025
+10/13/2025
