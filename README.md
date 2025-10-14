@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Heimer
 
-💻 I write code, drink matcha, and sometimes the code even works.
+💻 I write code, drink coconut, and sometimes the code even works.
 
 ## 😄 Daily Quotes 😄
 
