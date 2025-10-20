@@ -4,9 +4,9 @@
 
 ## 😄 Daily Quotes 😄
 
-_**Fear is a huge thing for older people.**_
+_**No one wants to die. Even people who want to go to heaven don't want to die to get there. And yet death is the destination we all share. No one has ever escaped it. And that is as it should be, because Death is very likely the single best invention of Life. It is Life's change agent. It clears out the old to make way for the new.**_
 
-James Hillman
+Steve Jobs
 
 
 
@@ -25,4 +25,4 @@ Git Config  0 secs         ░░░░░░░░░░░░░░░░░�
 Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 SSH Config  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/19/2025
+10/20/2025
