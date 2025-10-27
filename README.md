@@ -4,9 +4,9 @@
 
 ## 😄 Daily Quotes 😄
 
-_**It is better to create than to learn! Creating is the essence of life.**_
+_**The greater our knowledge increases the more our ignorance unfolds.**_
 
-Julius Caesar
+John F. Kennedy
 
 
 
@@ -28,4 +28,4 @@ CSS         0 secs         ░░░░░░░░░░░░░░░░░�
 INI         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 Docker      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
-10/26/2025
+10/27/2025
