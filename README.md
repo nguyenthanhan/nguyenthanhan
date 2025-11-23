@@ -4,9 +4,9 @@
 
 ## 😄 Daily Quotes 😄
 
-_**Character, in the long run, is the decisive factor in the life of an individual and of nations alike.**_
+_**Humor is richly rewarding to the person who employs it. It has some value in gaining and holding attention, but it has no persuasive value at all.**_
 
-Theodore Roosevelt
+John Kenneth Galbraith
 
 
 
@@ -23,4 +23,4 @@ Blade Template 7 mins         ▏░░░░░░░░░░░░░░░�
 JavaScript  3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 Git Config  2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%</pre>
 
-11/22/2025
+11/23/2025
