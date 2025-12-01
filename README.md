@@ -4,25 +4,10 @@
 
 ## 😄 Daily Quotes 😄
 
-_**A guy's biggest style mistake is definitely trying to look too cool. As long as you've got a good pair of jeans, a good pair of boots and a few good shirts, you're fine.**_
+_**Those who insist on having hostilities with us, kill and destroy the option of friendship with us in the future, which is unfortunate because it is clear the future belongs to Iran and that enmities will be fruitless.**_
 
-Luke Evans
+Mahmoud Ahmadinejad
 
 
-
-## 📊 Weekly development breakdown 📊
-
-<pre>Markdown    13 hrs 19 mins █████████▊░░░░░░░░░░░  47.0%
-PHP         9 hrs 3 mins   ██████▋░░░░░░░░░░░░░░  31.9%
-TypeScript  3 hrs 41 mins  ██▋░░░░░░░░░░░░░░░░░░  13.0%
-JSON        59 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
-Git Config  29 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
-Bash        22 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
-Other       11 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
-Text        8 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
-YAML        3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Blade Template 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Git         0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
-JavaScript  0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%</pre>
 
 12/1/2025
