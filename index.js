@@ -94,12 +94,14 @@ const generate = async () => {
 
     const content =
       lines === "" && _quote === ""
-        ? intro + `### Hi there 👋`
-        : intro + _quote + `\n\n${new Date().toLocaleDateString()}`;
+        ? intro
+        : intro + _quote + lines + `\n\n${new Date().toLocaleDateString()}`;
 
+    const content2 = intro;
+    
     console.log("content", content);
 
-    fs.writeFileSync("README.md", content);
+    fs.writeFileSync("README.md", content2);
   } catch (error) {
     console.error(error);
   }
